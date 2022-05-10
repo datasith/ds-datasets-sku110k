@@ -7,6 +7,7 @@ For more details about the dataset itself, please visit the original [Dataset an
 ### Files
     .
     ├── convert_yolov5.ipynb
+    ├── LICENSE    
     ├── README.md
     
 The images and labels data are being [hosted on Kaggle](https://www.kaggle.com/datasets/thedatasith/sku110k-annotations), and the `convert_yolov5.ipynb` notebook in this repo includes all the necessary code for accessing them.
