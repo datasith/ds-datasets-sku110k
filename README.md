@@ -8,20 +8,5 @@ For more details about the dataset itself, please visit the original [Dataset an
     .
     ├── convert_yolov5.ipynb
     ├── README.md
-    ├── SKU110K_fixed
-        ├── images
-            ├── test
-            ├── train
-            ├── val
-        ├── labels
-            ├── test
-            ├── train
-            ├── val
-
-Here you will find the annotations (labels) and a notebook containing the process to download the SKU110K dataset and format the annotations in YOLOv5
-format (`[class xmin ymin xmax ymax]` where the coordinates are normalized).
-
-The annotations are included with my preferred directory structure for organization. N.B.: that they can all be contained in a single file as well. 
-
-I've also included 1x sample image inside each one of the corresponding directories for demonstration purposes. You'll need to run the entire notebook
-to get all of the images in the dataset.
+    
+The images and labels data are being [hosted on Kaggle](https://www.kaggle.com/datasets/thedatasith/sku110k-annotations), and the `convert_yolov5.ipynb` notebook in this repo includes all the necessary code for accessing them.
