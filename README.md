@@ -18,13 +18,10 @@ For more details about the dataset itself, please visit the original [Dataset an
             ├── train
             ├── val
 
-Here you will find the annotations (labels) and a notebook containing the
-process to download the SKU110K dataset and format the annotations in YOLOv5
+Here you will find the annotations (labels) and a notebook containing the process to download the SKU110K dataset and format the annotations in YOLOv5
 format (`[class xmin ymin xmax ymax]` where the coordinates are normalized).
 
-The annotations are included with my preferred directory structure for
-organization. N.B.: that they can all be contained in a single file as well. 
+The annotations are included with my preferred directory structure for organization. N.B.: that they can all be contained in a single file as well. 
 
-I've also included 1 sample image inside each one of the corresponding
-directories for demonstration purposes. You'll need to run the entire notebook
-to get all of the iamges in the dataset.
+I've also included 1x sample image inside each one of the corresponding directories for demonstration purposes. You'll need to run the entire notebook
+to get all of the images in the dataset.
