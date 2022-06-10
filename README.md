@@ -1,6 +1,6 @@
 # 🛍️ SKU110K Dataset
 
-Here you will find the images and annotations (labels) for the SKU110K dataset. Also included is a notebook containing the process to download the SKU110K dataset and convert the annotations to a variety of formats (e.g., YOLOv5).
+Here you will find the images and annotations (labels) for the [SKU110K dataset](https://www.kaggle.com/datasets/thedatasith/sku110k-annotations). Also included is a notebook containing the process to download the SKU110K dataset from its original source, and convert the annotations to a variety of formats (e.g., YOLOv5).
 
 ## Files
 
